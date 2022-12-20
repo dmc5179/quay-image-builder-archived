@@ -1,3 +1,5 @@
+= [ ARCHIVED ] This repo has been transferred to https://github.com/openshift/quay-image-builder
+ 
 = quay-image-builder
 
 Packer build to create an AWS AMI running the Red Hat Quay registry +
